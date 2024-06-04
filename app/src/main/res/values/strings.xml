@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyPlainAlarm</string>
+
+    <!-- Ignore Battery Optimization -->
+    <string name="ignore_dialog_title">Ignore battery optimization</string>
+    <string name="ignore_dialog_text">This app needs the ability to run periodic jobs in the background.\nPlease allow it.</string>
+    <string name="btn_ok">OK</string>
+    <string name="title_yes">Yes</string>
+    <string name="btn_no">No</string>
+    <string name="title_activity_full_screen">FullScreenActivity</string>
+</resources>
